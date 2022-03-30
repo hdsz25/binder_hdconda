@@ -1,10 +1,11 @@
 name: hdconda
 channels:
+  - conda
   - conda-forge
 dependencies:
   - numpy
   - matplotlib
   - pandas
-  - sklearn
+  - scikit-learn
   - requests
 
