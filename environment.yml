@@ -1,6 +1,5 @@
 name: hdconda
 channels:
-  - conda
   - conda-forge
 dependencies:
   - numpy
