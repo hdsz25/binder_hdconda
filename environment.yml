@@ -1,13 +1,10 @@
-name: example-environment
+name: hdconda
 channels:
   - conda-forge
 dependencies:
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
-  - dask
+  - sklearn
+  - requests
+
